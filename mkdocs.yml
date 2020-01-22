@@ -1,0 +1,5 @@
+site_name: ML-Agents 강좌
+pages:
+  - 홈 : index.md
+  - 워크북 1: first_step.md
+theme: readthedocs
